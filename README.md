@@ -8,4 +8,4 @@ Using the Ruby gems HTTParty and Nokogiri, I created a small scraping script tha
 
 I then used the mountain and route information scraped from the Mazamas to scrape [Summit Post](http://www.summitpost.org) for additional information (such as summit coordinates and elevation). 
 
-From there, I was able to seed a route database for use by the [web application](https://github.com/alyssahursh/mazamas).
+From there, I was able to seed a route database for use by the [web app](https://github.com/alyssahursh/mazamas).
